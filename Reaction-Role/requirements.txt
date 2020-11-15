@@ -1,0 +1,2 @@
+utilsx
+gitpython
